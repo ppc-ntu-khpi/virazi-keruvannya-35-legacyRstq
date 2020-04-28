@@ -4,4 +4,4 @@
 
 ----
 # Результат
-![result text](https://github.com/ppc-ntu-khpi/virazi-keruvannya-35-legacyRstq/result.png)
+![](https://github.com/ppc-ntu-khpi/virazi-keruvannya-35-legacyRstq/blob/master/result.png)
